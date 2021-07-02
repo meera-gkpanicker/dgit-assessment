@@ -1,15 +1,15 @@
-#DGIT Systems Coding Assessment!
+# DGIT Systems Coding Assessment!
 
 This project provides the following APIs and is developed using spring boot, gradle and adding new API for fetching phonenumbers and activating them.
 
-####Count Words Coding Assignment
+#### Count Words Coding Assignment
 
 Write a program called Count Words that processes a List of Strings and applies the following business rules:
 
 - Counts and returns the NUMBER of words (i.e. Strings) that start with "M" or "m"
 - Returns all the words longer than 5 characters
 
-####Hints
+#### Hints
 
 - Make sure you implement this test like you would all your production code (Documentation, unit tests, build/packaging, etc.).
 - Business rules change and new ones pop up all the time; how will you account for this?
