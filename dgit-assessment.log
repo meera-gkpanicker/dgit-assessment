@@ -1,0 +1,33 @@
+11:47:10.483 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+11:47:10.485 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+12:37:12.628 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 2
+12:37:12.632 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 1
+12:40:52.454 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+12:40:52.456 [main] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+13:26:46.473 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:41:39.445 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:41:39.449 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:51:42.391 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:51:42.397 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:53:27.337 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+13:53:27.340 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:00:52.191 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+14:00:52.192 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+14:01:54.592 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:01:54.596 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:02:51.861 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+14:02:51.863 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+14:03:17.347 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+14:03:17.349 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+14:04:11.498 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:04:11.503 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:04:12.302 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 0
+14:04:12.304 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 1
+14:04:41.283 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:04:41.288 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:04:42.131 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Wordcount: 3
+14:04:42.133 [com.dgit.assessment.CountWords.main()] INFO  c.d.a.r.LetterAndCharacterCountBusinessRule - Five Character Count: 50
+14:55:24.056 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:55:24.062 [main] ERROR c.d.a.exception.DgitException - Exception thrown when counting words and reason is : Input list cannot be empty
+14:55:24.812 [com.dgit.assessment.CountWords.main()] INFO  com.dgit.assessment.CountWords - Wordcount: 3
+14:55:24.813 [com.dgit.assessment.CountWords.main()] INFO  com.dgit.assessment.CountWords - Five Character Count: 50
