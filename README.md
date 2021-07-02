@@ -15,7 +15,7 @@ Write a program called Count Words that processes a List of Strings and applies 
 - Business rules change and new ones pop up all the time; how will you account for this?
 - Please don't input words from standard input, no one likes to type long list of names manually.
 
-Project Repo URL:
+Project Repo URL: https://github.com/meera-gkpanicker/dgit-assessment.git
 
 Please follow the below steps to build and run this application built using maven. 
 1. Clone the repo and import the same in an IDE eg: Intellij
